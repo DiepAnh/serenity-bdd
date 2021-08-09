@@ -1,4 +1,4 @@
-package starter.stepdefinitions;
+package demo.stepdefinitions;
 
 import io.cucumber.datatable.DataTable;
 import io.cucumber.java.Before;
@@ -7,9 +7,9 @@ import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import net.serenitybdd.screenplay.actors.OnStage;
 import net.serenitybdd.screenplay.actors.OnlineCast;
-import starter.login.Login;
-import starter.login.LoginResult;
-import starter.navigation.NavigateTo;
+import demo.login.Login;
+import demo.login.LoginResult;
+import demo.navigation.NavigateTo;
 
 import java.util.List;
 import java.util.Map;

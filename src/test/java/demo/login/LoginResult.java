@@ -1,4 +1,4 @@
-package starter.login;
+package demo.login;
 
 import net.serenitybdd.screenplay.Question;
 import net.serenitybdd.screenplay.questions.TextContent;

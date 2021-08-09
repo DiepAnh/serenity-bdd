@@ -1,9 +1,9 @@
-package starter.navigation;
+package demo.navigation;
 
 import net.serenitybdd.screenplay.Performable;
 import net.serenitybdd.screenplay.Task;
 import net.serenitybdd.screenplay.actions.Open;
-import starter.login.LoginPage;
+import demo.login.LoginPage;
 
 public class NavigateTo {
 

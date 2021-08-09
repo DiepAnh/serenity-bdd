@@ -1,4 +1,4 @@
-package starter.login;
+package demo.login;
 
 import net.serenitybdd.screenplay.Performable;
 import net.serenitybdd.screenplay.Task;
